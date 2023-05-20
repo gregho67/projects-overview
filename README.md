@@ -8,7 +8,7 @@ I am currently in my 5th and last year of studying Computer Science at Strasbour
 
 This is a project I started around 2 years ago to try and learn mobile game developpment on Unity. This is a 2D game with an 8-bit style. The player can shoot arrows by tapping on the screen and he has to shoot the ennemies to gain points while being careful not to touch innocents with his projectiles.
 
-I made some of the assets for this game and used or modified some other free assets that I found mostly on [OpengameArt](https://opengameart.org/). The game itself is almost complete since it's playable on multiple mobile devices, but I intend to continue working on it to improve the looks and the gameplay and fix eventual bugs. I would like to publish it on the Google Play store once it is more refined in order to get a few reviews on what I could add or improve.
+I made some of the assets for this game and used or modified some other free assets that I found mostly on [OpengameArt](https://opengameart.org/). The game itself is almost complete since it's playable on multiple mobile devices, but I intend to continue working on it to improve the looks and the gameplay and fix eventual bugs. I would like to publish it once it is more refined in order to get a few reviews on what I could add or improve.
 
 # School projects
 
