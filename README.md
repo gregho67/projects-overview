@@ -12,6 +12,8 @@ I made some of the assets for this game and used or modified some other free ass
 
 # School projects
 
+For a complete list of the projects I made on Unity, see my repository [Unity projects](https://github.com/gregho67/unity-projects).
+
 ## Major projects
 
 ### 3D Multiplayer Game : Wrecking Brawl
